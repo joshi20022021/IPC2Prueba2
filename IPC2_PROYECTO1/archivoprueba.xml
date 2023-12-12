@@ -1,0 +1,32 @@
+<biblioteca>
+    <cancion nombre="Attack on bangtan">
+	<artista>"BTS"</artista>
+	<album>"O!RUL,2?"</album>
+	<imagen>"1"</imagen>
+	<ruta>C:\Users\My PC\Downloads\y2mate.com - Canción En Kaqchiquel  El Mishito.mp3</ruta>
+    </cancion>
+    <cancion nombre="the middle">
+	<artista>"Jimmy Eat World"</artista>
+        <album>"Bleed American"</album>
+        <imagen>2</imagen>
+        <ruta>C:\Users\My PC\Downloads\y2mate.com - VENID FIELES TODOS VEN ADORAR FT YADAH SECUENCIA  CHRIS ROCHA CANAL OFICIAL.mp3</ruta>
+        
+    </cancion>
+    <cancion nombre="Perfectly Perfect">
+        <artista>"Simple plan"</artista>
+        <imagen>3</imagen>
+        <ruta>C:\Users\My PC\Downloads\y2mate.com - Christmas Medley Venid Fieles Todos  Carol of The Bells FT Antonio  Allison BETHEL  Chris Rocha.mp3</ruta>
+    </cancion>
+        <cancion nombre="Bohemian Rhapsody">
+        <artista>"Queen"</artista>
+        <album>"A Night at the Opera"</album>
+        <imagen>4</imagen>
+        <ruta>C:\Users\My PC\Downloads\2023-10-18 11-42-38 (online-audio-converter.com).mp3</ruta>
+    </cancion>
+    <cancion nombre="Smells Like Teen Spirit">
+        <artista>"Nirvana"</artista>
+        <album>"Nevermind"</album>
+        <imagen>5</imagen>
+        <ruta>C:\Users\My PC\Downloads\202112012.mp3</ruta>
+    </cancion>
+</biblioteca>
